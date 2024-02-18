@@ -1777,7 +1777,7 @@ vendor/etc/init/ims_rtp_daemon.rc
 vendor/etc/init/imsdaemon.rc
 vendor/etc/init/netmgrd.rc
 vendor/etc/init/port-bridge.rc
-vendor/etc/init/qcrilNrd.rc
+vendor/etc/init/qcrilNrd.rc|07102a903fa5d175b6d894a12743d18fe772f0bc
 vendor/etc/init/ssgtzd.rc
 vendor/etc/init/vendor.qti.rmt_storage.rc
 vendor/etc/init/vendor.qti.tftp.rc

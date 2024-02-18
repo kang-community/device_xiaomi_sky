@@ -29,6 +29,11 @@ on boot
 
     chmod 0777 /dev/goodix_fp
 
+    enable vendor.qcrild
+    enable vendor.qcrild2
+    enable vendor.dataqti
+    enable vendor.dataadpl
+
 on post-fs-data
     mkdir /data/vendor/fpc 0777 system system
     mkdir /data/vendor/goodix 0777 system system

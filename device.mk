@@ -387,7 +387,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     charger_fw_fstab.qti \
     fstab.default \
-    init.class_main.sh \
     init.sky.rc \
     init.sky.perf.rc \
     init.qcom.class_core.sh \
